@@ -54,7 +54,7 @@
 ### &nbsp; Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/absalem42/absalem42/output/snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/absalem42/absalem42/output/snake.svg](https://raw.githubusercontent.com/absalem42/absalem42/output/snake.svg)" alt="Snake animation" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
